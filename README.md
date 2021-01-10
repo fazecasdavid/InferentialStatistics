@@ -1,2 +1,2 @@
 # InferentialStatistics
-Some useful MATLAB material
+Some useful MATLAB functions
